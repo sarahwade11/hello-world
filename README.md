@@ -9,3 +9,6 @@
 # Welcome to ENTR-451
 
 This is my practice edits of a GitHub repository.
+
+This is a change that I made in GitPod, which doesn't go to GitHub automatically. 
+
